@@ -1,0 +1,6 @@
+build/
+dist/
+installer/
+__pycache__/
+*.spec
+*.wirenote.json
